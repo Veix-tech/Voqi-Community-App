@@ -3,8 +3,7 @@
 
 ## UE / Wielka Brytania / USA
 
-> Ten dokument ma charakter informacyjny i nie stanowi porady prawnej. Przed publikacją aplikacji należy skonsultować dokumentację z prawnikiem specjalizującym się w prawie technologicznym, prywatności danych i telekomunikacji.
-
+>Ten Dokument Zawiera Najważniejsze przepisy i warunki użytkowania
 ---
 
 # 1. Zakres aplikacji
