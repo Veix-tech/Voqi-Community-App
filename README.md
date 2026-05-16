@@ -7,4 +7,5 @@ This is Voqi, Community App for you'r android
 ### Voqi App for Android, this is Community App base on Kotlin and grove, on API 25 . This App is Best Project on Veix 
 
 ### Licension - Veix INC Technologies 2026
-### 
+## OS
+for Android , minimal : 7.1.1 api 25
