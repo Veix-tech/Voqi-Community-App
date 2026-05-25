@@ -8,5 +8,5 @@ This is Voqi, Community App for you'r android
 
 ### Licension - Veix INC Technologies 2026
 ## OS
-for Android , minimal : 7.1.1 api 25
+for Android , minimal : 8 api 26
 ### Planned Stable Version (RC) Release : 2026.06.10
