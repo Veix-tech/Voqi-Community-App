@@ -10,3 +10,5 @@ This is Voqi, Community App for you'r android
 ## OS
 for Android , minimal : 8 api 26
 ### Planned Stable Version (RC) Release : 2026.08.20
+## Veix Help Center
+https://veixia.wixsite.com/veix-help
