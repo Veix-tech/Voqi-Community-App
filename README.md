@@ -13,4 +13,3 @@ for Android , minimal : 8 api 26
 ## Veix Help Center
 https://veixia.wixsite.com/veix-help
 
-https://drive.google.com/file/d/1HKT_11dQAuAEe3HHoa6wuO1_ETCoEi63/view?usp=sharing
